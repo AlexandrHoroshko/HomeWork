@@ -1,4 +1,4 @@
-import static java.lang.Math.*;
+import static java.lang.Math.pow;
 
 class HW1 {
 
@@ -43,7 +43,7 @@ class HW1 {
         return myPi* pow(r,2);
     }
 
-    double circle_perimeter(double r) {
+    double circle_perimeter(double r) {  //test8
         return 2*myPi*r;
     }
 
@@ -74,4 +74,13 @@ class HW1 {
         return result;
     }
 
-}
+//    Object reverse(Object [] array) {
+//        for (int i = 0; i < array.length / 2; i++) {
+//            Object temp = array[i];
+//            array[i] = array[array.length - 1 - i];
+//            array[array.length - 1 - i] = temp;
+//        }
+//        return array;
+//    }
+
+ }
