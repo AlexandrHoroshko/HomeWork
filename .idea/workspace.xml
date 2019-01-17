@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02a5002f-f0f4-457d-8dd7-f3ea6b52abb6" name="Default Changelist" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="02a5002f-f0f4-457d-8dd7-f3ea6b52abb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,44 +18,47 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HomeWork$Test_test17.ic" NAME="Test.test17 Coverage Results" MODIFIED="1547732968663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HomeWork$Test_test18.ic" NAME="Test.test18 Coverage Results" MODIFIED="1547733261499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HomeWork$Test.ic" NAME="Test Coverage Results" MODIFIED="1547733016024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="191" />
+  </component>
   <component name="ErrorTreeViewConfiguration">
     <option name="hideWarnings" value="true" />
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HW1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="150">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="method#returnSum#0;class#HW1#0" />
+                <element signature="method#calculateFactorial#0;class#HW1#0" />
+                <element signature="method#reverse#0;class#HW1#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HW1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HW2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#682#683#0" expanded="true" />
-                <element signature="e#712#713#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-                <element signature="e#770#771#0" expanded="true" />
-                <element signature="e#871#872#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -63,28 +66,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#858#859#0" expanded="true" />
-                <element signature="e#917#918#0" expanded="true" />
-                <element signature="e#976#977#0" expanded="true" />
-                <element signature="e#1035#1036#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="427">
+              <caret line="103" column="19" lean-forward="true" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -113,8 +105,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Tests.java" />
         <option value="$PROJECT_DIR$/src/main/java/Square.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HW2.java" />
         <option value="$PROJECT_DIR$/src/main/java/HW1.java" />
       </list>
     </option>
@@ -130,9 +123,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="237" />
-    <option name="y" value="107" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="270" />
+    <option name="y" value="39" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -189,7 +182,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547663851580" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547747391143" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -212,21 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1" />
-      <module name="HomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Test.test19">
     <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="PACKAGE_NAME" value="" />
@@ -236,80 +215,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test.test17" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="METHOD_NAME" value="test7" />
+      <option name="METHOD_NAME" value="test17" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test.test18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="METHOD_NAME" value="test8" />
+      <option name="METHOD_NAME" value="test18" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="Test.test19" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test19" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration name="Test.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test9" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HW1" />
+        <item itemvalue="JUnit.Test.test19" />
+        <item itemvalue="JUnit.Test.test18" />
         <item itemvalue="JUnit.Test" />
-        <item itemvalue="JUnit.Test.test8" />
-        <item itemvalue="JUnit.Test.test7" />
+        <item itemvalue="JUnit.Test.test17" />
+        <item itemvalue="JUnit.Test.test9" />
       </list>
     </recent_temporary>
   </component>
@@ -338,39 +290,46 @@
       <option name="project" value="LOCAL" />
       <updated>1547659657412</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1547663856188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547663856188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_test7 - 2019.01.16 at 18h 07m 49s.xml">
-      <configuration name="Test.test7" configurationId="JUnit" />
+    <history-entry file="Test_test17 - 2019.01.17 at 15h 50m 06s.xml">
+      <configuration name="Test.test17" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test7 - 2019.01.16 at 18h 08m 10s.xml">
-      <configuration name="Test.test7" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test7 - 2019.01.16 at 18h 08m 18s.xml">
-      <configuration name="Test.test7" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test7 - 2019.01.16 at 18h 09m 42s.xml">
-      <configuration name="Test.test7" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test8 - 2019.01.16 at 18h 10m 09s.xml">
-      <configuration name="Test.test8" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test8 - 2019.01.16 at 18h 10m 23s.xml">
-      <configuration name="Test.test8" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test8 - 2019.01.16 at 18h 10m 31s.xml">
-      <configuration name="Test.test8" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test - 2019.01.16 at 18h 10m 45s.xml">
+    <history-entry file="Test - 2019.01.17 at 15h 50m 16s.xml">
       <configuration name="Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test - 2019.01.16 at 18h 38m 26s.xml">
-      <configuration name="Test" configurationId="JUnit" />
+    <history-entry file="Test_test18 - 2019.01.17 at 15h 53m 45s.xml">
+      <configuration name="Test.test18" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test - 2019.01.16 at 18h 46m 13s.xml">
-      <configuration name="Test" configurationId="JUnit" />
+    <history-entry file="Test_test18 - 2019.01.17 at 15h 53m 51s.xml">
+      <configuration name="Test.test18" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test18 - 2019.01.17 at 15h 54m 04s.xml">
+      <configuration name="Test.test18" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test18 - 2019.01.17 at 15h 54m 22s.xml">
+      <configuration name="Test.test18" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test19 - 2019.01.17 at 16h 02m 48s.xml">
+      <configuration name="Test.test19" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test19 - 2019.01.17 at 16h 04m 26s.xml">
+      <configuration name="Test.test19" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test19 - 2019.01.17 at 16h 05m 49s.xml">
+      <configuration name="Test.test19" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test19 - 2019.01.17 at 16h 06m 06s.xml">
+      <configuration name="Test.test19" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -383,32 +342,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="298" y="50" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18981738" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25701624" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info x="743" y="173" width="466" height="642" id="Learn" order="7" type="FLOATING" weight="0.3293944" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" weight="0.24406047" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" visible="true" weight="0.2433984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39954075" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295063" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49926144" visible="true" weight="0.32829374" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49926144" weight="0.34902412" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49926144" weight="0.3306544" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013835" side_tool="true" weight="0.24406047" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3283582" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3293944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.3293944" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.3293944" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -470,28 +431,16 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Square.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -509,58 +458,40 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-            <element signature="e#917#918#0" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1035#1036#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="427">
+          <caret line="103" column="19" lean-forward="true" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HW2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HW1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="method#returnSum#0;class#HW1#0" />
+            <element signature="method#calculateFactorial#0;class#HW1#0" />
+            <element signature="method#reverse#0;class#HW1#0" />
           </folding>
         </state>
       </provider>

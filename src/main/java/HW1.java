@@ -3,15 +3,15 @@ import static java.lang.Math.pow;
 class HW1 {
 
     int sum(int a, int b, int c) {
-        if (a%2 == 0) {
+        if (a%2 == 0)
             return a * b / c;
-        }
-        if ((a+b)%2 == 0 && (b+c)%2 == 0)
+         else if((a+b)%2 == 0 || (b+c)%2 == 0)
             return (int) pow(a, c);
-        else {
+         else
             return a + b - c;
-        }
+
     }
+
 
     private double myPi = 22.0/7.0;
 
@@ -43,9 +43,9 @@ class HW1 {
         return myPi* pow(r,2);
     }
 
-    double circle_perimeter(double r) {  //test8
+    double circle_perimeter(double r) {
         return 2*myPi*r;
-    }
+    }  //test8
 
     int returnSum(int days) {
         int price = 1000;
@@ -67,20 +67,31 @@ class HW1 {
     }
 
     int calculateFactorial(int n) {
+
         int result = 1;
-        for (int i = 1; i <=n; i++) {
-            result = result*i;
+
+        if (n > 0) {
+            for (int i = 1; i <= n; i++) {
+                result = result * i;
+            }
+            return result;
+        } else {
+            return 0;
         }
-        return result;
     }
 
-//    Object reverse(Object [] array) {
-//        for (int i = 0; i < array.length / 2; i++) {
-//            Object temp = array[i];
-//            array[i] = array[array.length - 1 - i];
-//            array[array.length - 1 - i] = temp;
-//        }
-//        return array;
-//    }
+    static void reverse(int a[], int n) {
+        int[] b = new int[n];
+        int j = n;
+        for (int i = 0; i < n; i++) {
+            b[j - 1] = a[i];
+            j = j - 1;
+        }
 
- }
+        /*printing the reversed array*/
+        System.out.println("Reversed array is: \n");
+        for (int k = 0; k < n; k++) {
+            System.out.println(b[k]);
+        }
+    }
+}
