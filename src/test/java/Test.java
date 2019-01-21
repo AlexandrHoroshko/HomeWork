@@ -1,4 +1,5 @@
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotEquals;
 
 
 public class Test {
@@ -106,6 +107,10 @@ public class Test {
         assertEquals(hw1.calculateFactorial(-1), 0);
     }
 
-
+    @org.junit.Test
+    public void test20() {
+        int a[] = {1,2,3,4,5};
+        hw1.shift(a);
+    }
 
 }
