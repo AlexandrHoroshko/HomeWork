@@ -12,7 +12,6 @@ class HW1 {
 
     }
 
-
     private double myPi = 22.0 / 7.0;
 
     int square_area(int a) {
@@ -95,50 +94,4 @@ class HW1 {
         }
     }
 
-    void shift(int[] a) {
-        int j = a.length / 2;
-        int y = a.length % 2;
-        for (int i = 0; i < j; i++) {
-            int v = a[j + i + y];
-            a[j + i + y] = a[i];
-            a[i] = v;
-        }
-        /*printing the reversed array*/
-        System.out.println("Reversed array is: \n");
-        for (int k = 0; k < a.length; k++) {
-            System.out.print(a[k] + " ");
-        }
-
-    }
-
-    void sortBuble(int[] a) {
-        boolean isSorted = false;
-        int j;
-        while (!isSorted) {
-            isSorted = true;
-            for (int i = 0; i < a.length - 1; i++) {
-                if (a[i] > a[i + 1]) {
-                    isSorted = false;
-
-                    j = a[i];
-                    a[i] = a[i + 1];
-                    a[i + 1] = j;
-                }
-            }
-        }
-    }
-
-    void sortInsert(int[] a) {
-        for (int i = 0; i < a.length; i++) {
-            int k = i - 1;
-            int ai = a[i];
-            while (a[k] > ai && k >= 0) {
-                a[i] = a[k];
-                k--;
-                a[k] = ai;
-            }
-
-
-        }
-    }
 }

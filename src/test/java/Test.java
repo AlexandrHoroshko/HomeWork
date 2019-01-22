@@ -5,6 +5,7 @@ import static org.junit.Assert.assertNotEquals;
 public class Test {
 
     private HW1 hw1 = new HW1();
+    private HW2 hw2 = new HW2();
 
 
     @org.junit.Test
@@ -110,7 +111,7 @@ public class Test {
     @org.junit.Test
     public void test20() {
         int a[] = {1,2,3,4,5};
-        hw1.shift(a);
+        hw2.shift(a);
     }
 
 }
