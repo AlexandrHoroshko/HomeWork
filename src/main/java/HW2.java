@@ -3,7 +3,7 @@ import java.util.*;
 
 public class HW2 {
 
-    void shift(int[] a) {
+    int[] shift(int[] a) {
         int j = a.length / 2;
         int y = a.length % 2;
         for (int i = 0; i < j; i++) {
@@ -11,15 +11,10 @@ public class HW2 {
             a[j + i + y] = a[i];
             a[i] = v;
         }
-        /*printing the reversed array*/
-        System.out.println("Reversed array is: \n");
-        for (int k = 0; k < a.length; k++) {
-            System.out.print(a[k] + " ");
-        }
-
+        return a;
     }
 
-    static void bubbleSort(int[] arr) {
+    int[] bubbleSort(int[] arr) {
         for (int i = arr.length - 1; i > 0; i--) {
             for (int j = 0; j < i; j++) {
                 if (arr[j] > arr[j + 1]) {
@@ -29,9 +24,10 @@ public class HW2 {
                 }
             }
         }
+        return arr;
     }
 
-    static void insertIntoSort(int[] arr) {
+    int[] insertIntoSort(int[] arr) {
         int temp;
         int j;
         for (int i = 0; i < arr.length - 1; i++) {
@@ -46,6 +42,7 @@ public class HW2 {
                 arr[j] = temp;
             }
         }
+        return arr;
     }
 
     String intToString(int a) {
@@ -96,7 +93,7 @@ public class HW2 {
 
     } // The length of the smallest word in the text
 
-    int CharNum() {
+    int CharNum(String str) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your text: ");
         String S = sc.nextLine();

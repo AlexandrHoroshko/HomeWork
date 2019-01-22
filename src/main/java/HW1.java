@@ -79,19 +79,14 @@ class HW1 {
         }
     } //test 18 - 19
 
-    void reverse(int a[]) {
+    int[] reverse(int[] a) {
         int[] b = new int[a.length];
         int j = a.length;
         for (int i = 0; i < a.length; i++) {
             b[j - 1] = a[i];
             j = j - 1;
         }
-
-        /*printing the reversed array*/
-        System.out.println("Reversed array is: \n");
-        for (int k = 0; k < a.length; k++) {
-            System.out.print(b[k] + " ");
-        }
+        return b;
     }
 
 }

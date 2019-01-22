@@ -1,5 +1,4 @@
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotEquals;
+import static org.junit.Assert.*;
 
 
 public class Test {
@@ -110,8 +109,9 @@ public class Test {
 
     @org.junit.Test
     public void test20() {
-        int a[] = {1,2,3,4,5};
-        hw2.shift(a);
+        int[] Exp = {1,2,3,4,5};
+        int[] Act = {4,5,3,1,2};
+        assertArrayEquals(hw2.shift(Exp), Act);
     }
 
 }

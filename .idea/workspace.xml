@@ -2,10 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02a5002f-f0f4-457d-8dd7-f3ea6b52abb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Driver/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HW2Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,8 +43,8 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/HomeWork$Test_test17.ic" NAME="Test.test17 Coverage Results" MODIFIED="1547732968663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HomeWork$Test_test18.ic" NAME="Test.test18 Coverage Results" MODIFIED="1547733261499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HomeWork$Test_test17.ic" NAME="Test.test17 Coverage Results" MODIFIED="1547732968663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HomeWork$Test.ic" NAME="Test Coverage Results" MODIFIED="1547733016024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
@@ -35,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HW1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="833">
+              <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
               <folding>
                 <element signature="method#sum#0;class#HW1#0" />
                 <element signature="e#345#346#0" expanded="true" />
@@ -65,19 +89,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HW2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="629">
+              <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#shift#0;class#HW2#0" />
                 <element signature="method#bubbleSort#0;class#HW2#0" />
                 <element signature="method#insertIntoSort#0;class#HW2#0" />
+                <element signature="method#intToString#0;class#HW2#0" />
                 <element signature="method#IntToString#0;class#HW2#0" />
                 <element signature="method#doubleToString#0;class#HW2#0" />
-                <element signature="method#StringToInt#0;class#HW2#0" />
                 <element signature="method#minLengthInString#0;class#HW2#0" />
-                <element signature="method#CharNum#0;class#HW2#0" />
-                <element signature="method#deleteLastWordInString#0;class#HW2#0" />
               </folding>
             </state>
           </provider>
@@ -86,17 +108,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="272">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="113" column="21" lean-forward="true" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+            <state relative-caret-position="163">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,10 +136,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HW2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -118,6 +158,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -134,15 +175,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Tests.java" />
         <option value="$PROJECT_DIR$/src/main/java/Square.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HW2.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
         <option value="$PROJECT_DIR$/src/main/java/Figure.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/HW1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HW2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HW2Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Driver/Driver.java" />
       </list>
     </option>
   </component>
@@ -170,40 +213,49 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -212,14 +264,23 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548168097199" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548179668814" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -239,65 +300,66 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver.Driver" />
       <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HW2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="HW2Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.test19" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HW2Test.IntToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="METHOD_NAME" value="test19" />
+      <option name="MAIN_CLASS_NAME" value="HW2Test" />
+      <option name="METHOD_NAME" value="IntToString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.test20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HW2Test.intToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="METHOD_NAME" value="test20" />
+      <option name="MAIN_CLASS_NAME" value="HW2Test" />
+      <option name="METHOD_NAME" value="intToString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Specifications" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="HomeWork" />
-      <envMap />
-      <setting name="rowsRange" value="" />
+    <configuration name="HW2Test.shift" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HW2Test" />
+      <option name="METHOD_NAME" value="shift" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.Test.test20" />
-        <item itemvalue="Gauge Execution.Specifications" />
-        <item itemvalue="JUnit.Test" />
-        <item itemvalue="JUnit.Test.test19" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="JUnit.HW2Test" />
+        <item itemvalue="JUnit.HW2Test.IntToString" />
+        <item itemvalue="JUnit.HW2Test.intToString" />
+        <item itemvalue="JUnit.HW2Test.shift" />
       </list>
     </recent_temporary>
   </component>
@@ -365,35 +427,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test - 2019.01.17 at 15h 50m 16s.xml">
-      <configuration name="Test" configurationId="JUnit" />
+    <history-entry file="Test_test20 - 2019.01.22 at 18h 10m 06s.xml">
+      <configuration name="Test.test20" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test18 - 2019.01.17 at 15h 53m 45s.xml">
-      <configuration name="Test.test18" configurationId="JUnit" />
+    <history-entry file="HW2Test_shift - 2019.01.22 at 18h 20m 08s.xml">
+      <configuration name="HW2Test.shift" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test18 - 2019.01.17 at 15h 53m 51s.xml">
-      <configuration name="Test.test18" configurationId="JUnit" />
+    <history-entry file="HW2Test - 2019.01.22 at 18h 28m 49s.xml">
+      <configuration name="HW2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test18 - 2019.01.17 at 15h 54m 04s.xml">
-      <configuration name="Test.test18" configurationId="JUnit" />
+    <history-entry file="HW2Test_intToString - 2019.01.22 at 18h 34m 54s.xml">
+      <configuration name="HW2Test.intToString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test18 - 2019.01.17 at 15h 54m 22s.xml">
-      <configuration name="Test.test18" configurationId="JUnit" />
+    <history-entry file="HW2Test_IntToString - 2019.01.22 at 18h 41m 33s.xml">
+      <configuration name="HW2Test.IntToString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test19 - 2019.01.17 at 16h 02m 48s.xml">
-      <configuration name="Test.test19" configurationId="JUnit" />
+    <history-entry file="HW2Test - 2019.01.22 at 18h 56m 03s.xml">
+      <configuration name="HW2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test19 - 2019.01.17 at 16h 04m 26s.xml">
-      <configuration name="Test.test19" configurationId="JUnit" />
+    <history-entry file="HW2Test - 2019.01.22 at 19h 03m 20s.xml">
+      <configuration name="HW2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test19 - 2019.01.17 at 16h 05m 49s.xml">
-      <configuration name="Test.test19" configurationId="JUnit" />
+    <history-entry file="HW2Test - 2019.01.22 at 19h 04m 36s.xml">
+      <configuration name="HW2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test19 - 2019.01.17 at 16h 06m 06s.xml">
-      <configuration name="Test.test19" configurationId="JUnit" />
+    <history-entry file="HW2Test - 2019.01.22 at 19h 04m 59s.xml">
+      <configuration name="HW2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test - 2019.01.21 at 11h 43m 57s.xml">
-      <configuration name="Test" configurationId="JUnit" />
+    <history-entry file="HW2Test - 2019.01.22 at 19h 05m 24s.xml">
+      <configuration name="HW2Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -406,10 +468,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19756502" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -419,18 +480,18 @@
       <window_info x="1119" y="155" width="466" height="642" id="Learn" order="7" weight="0.34477034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" visible="true" weight="0.24298055" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" weight="0.28641573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49926144" weight="0.3488121" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49926144" weight="0.25917926" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49926144" visible="true" weight="0.34860885" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49926144" weight="0.25859246" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013835" side_tool="true" weight="0.24406047" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3088553" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.30769232" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24963072" />
-      <window_info anchor="right" id="Maven" order="2" weight="0.3293944" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.3290469" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24963072" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -500,40 +561,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Square.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/IntFunction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/IntFunction.class" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -545,17 +577,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="238">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HW1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="833">
+          <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
           <folding>
             <element signature="method#sum#0;class#HW1#0" />
             <element signature="e#345#346#0" expanded="true" />
@@ -582,34 +614,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HW2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="629">
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#shift#0;class#HW2#0" />
             <element signature="method#bubbleSort#0;class#HW2#0" />
             <element signature="method#insertIntoSort#0;class#HW2#0" />
+            <element signature="method#intToString#0;class#HW2#0" />
             <element signature="method#IntToString#0;class#HW2#0" />
             <element signature="method#doubleToString#0;class#HW2#0" />
-            <element signature="method#StringToInt#0;class#HW2#0" />
             <element signature="method#minLengthInString#0;class#HW2#0" />
-            <element signature="method#CharNum#0;class#HW2#0" />
-            <element signature="method#deleteLastWordInString#0;class#HW2#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Figure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="272">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="113" column="21" lean-forward="true" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HW2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Driver/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -681,7 +732,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <last-edited>Maven: org.hamcrest:hamcrest-core:1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
