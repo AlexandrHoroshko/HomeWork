@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02a5002f-f0f4-457d-8dd7-f3ea6b52abb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/AutoTestGitHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Driver/AutoTestGitHub.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,13 +60,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HW2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="429">
+              <caret line="103" column="18" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#shift#0;class#HW2#0" />
                 <element signature="method#bubbleSort#0;class#HW2#0" />
                 <element signature="method#insertIntoSort#0;class#HW2#0" />
@@ -127,7 +122,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Driver/AutoTestGitHub.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -184,8 +179,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Driver/Example.java" />
         <option value="$PROJECT_DIR$/src/test/java/HW2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HW2.java" />
         <option value="$PROJECT_DIR$/src/test/java/Driver/AutoTestGitHub.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HW2.java" />
       </list>
     </option>
   </component>
@@ -287,7 +282,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548264331241" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548264844769" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -466,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548261616103</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update">
+      <created>1548264324177</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1548264324177</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update">
+      <created>1548264342960</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1548264342960</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -514,7 +523,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21306032" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21306032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -524,14 +533,14 @@
       <window_info x="1119" y="155" width="466" height="642" id="Learn" order="7" weight="0.34477034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980631" visible="true" weight="0.2861771" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4975097" weight="0.2861771" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" visible="true" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49926144" weight="0.3477322" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49926144" weight="0.25859246" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019369" side_tool="true" weight="0.2861771" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002767" side_tool="true" weight="0.39848813" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.30669546" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Maven" order="1" weight="0.32872164" />
@@ -708,6 +717,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Driver/AutoTestGitHub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="88" lean-forward="true" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -717,10 +736,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HW2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="429">
+          <caret line="103" column="18" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#shift#0;class#HW2#0" />
             <element signature="method#bubbleSort#0;class#HW2#0" />
             <element signature="method#insertIntoSort#0;class#HW2#0" />
@@ -733,16 +751,6 @@
             <element signature="e#1681#1682#0" expanded="true" />
             <element signature="e#1722#1723#0" expanded="true" />
             <element signature="e#1768#1769#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Driver/AutoTestGitHub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="88" lean-forward="true" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

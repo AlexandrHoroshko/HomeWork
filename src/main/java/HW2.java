@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 class HW2 {
@@ -100,8 +99,9 @@ class HW2 {
 
         String[] SS = S.split("[\\s.,?!—]+");
         int i = SS.length - 1;
-        SS[i] = "";
-        return Arrays.toString(SS);
+        String SSS = S.replace(SS[i],"").trim();
+
+        return SSS;
     } // Delete Last Word In String
 
 
