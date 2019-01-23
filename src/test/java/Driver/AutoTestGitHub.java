@@ -1,6 +1,5 @@
 package Driver;
 
-import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -9,7 +8,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class AutoTestGitHub {
 
-    @Before
 
     @Test
     public void testGitLogin() throws InterruptedException {
@@ -25,8 +23,8 @@ public class AutoTestGitHub {
         WebElement Login = driver.findElement(By.id("login_field"));
 
 
-        Login.sendKeys("AlexandrHoroshko");
-        Password.sendKeys("wfsifJipGG1995");
+        Login.sendKeys("AlexandrHoroshkoTest3");
+        Password.sendKeys("zXc123aSd456");
         driver.findElement(By.cssSelector("#login > form > div.auth-form-body.mt-3 > input.btn.btn-primary.btn-block"))
                 .click();
         Thread.sleep(3000);

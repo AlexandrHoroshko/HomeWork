@@ -100,7 +100,7 @@ class HW2 {
 
         String[] SS = S.split("[\\s.,?!—]+");
         int i = SS.length - 1;
-        SS[i] = " ";
+        SS[i] = "";
         return Arrays.toString(SS);
     } // Delete Last Word In String
 
