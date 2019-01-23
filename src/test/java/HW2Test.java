@@ -1,10 +1,10 @@
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertArrayEquals;
+import static org.junit.Assert.assertEquals;
 
 public class HW2Test {
 
-    private HW1 hw1 = new HW1();
     private HW2 hw2 = new HW2();
 
     @Test

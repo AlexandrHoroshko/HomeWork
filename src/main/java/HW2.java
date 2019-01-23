@@ -1,7 +1,7 @@
+import java.util.Arrays;
 import java.util.Scanner;
-import java.util.*;
 
-public class HW2 {
+class HW2 {
 
     int[] shift(int[] a) {
         int j = a.length / 2;
@@ -61,29 +61,25 @@ public class HW2 {
     }
 
     String IntToString(int a) {
-        String str = Integer.toString(a);
-        return str;
+        return Integer.toString(a);
     }
 
     String doubleToString(double a) {
-        String str = Double.toString(a);
-        return str;
+        return Double.toString(a);
     }
 
     int StringToInt(String str) {
-        int num = Integer.parseInt(str);
-        return num;
+        return Integer.parseInt(str);
     }
 
     double StringToDouble(String str) {
-        double num = Double.parseDouble(str);
-        return num;
+        return Double.parseDouble(str);
     }
 
     int minLengthInString(String S) {
 
         String[] SS = S.split("[\\s.,?!—]+");
-        int i = SS.length;
+        int i;
         int[] SSint = new int[SS.length];
         for (i = 0; i <= SS.length - 1; i++) {
             SSint[i] =Integer.parseInt(String.valueOf(SS[i].length()));
@@ -97,8 +93,7 @@ public class HW2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your text: ");
         String S = sc.nextLine();
-        int k = S.length();
-        return k;
+        return S.length();
     } // number of chars in the text
 
     String deleteLastWordInString(String S) {
@@ -109,6 +104,6 @@ public class HW2 {
         return Arrays.toString(SS);
     } // Delete Last Word In String
 
-    
+
 
 }
