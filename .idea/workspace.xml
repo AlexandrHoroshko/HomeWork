@@ -47,25 +47,7 @@
             <state relative-caret-position="290">
               <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
               <folding>
-                <element signature="method#sum#0;class#HW1#0" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#744#745#0" expanded="true" />
-                <element signature="e#780#781#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-                <element signature="method#returnSum#0;class#HW1#0" />
-                <element signature="method#calculateFactorial#0;class#HW1#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,8 +113,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HWFigure/FigureCalculation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            <state relative-caret-position="435">
+              <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -188,8 +170,8 @@
         <option value="$PROJECT_DIR$/src/main/java/HWFigure/Square.java" />
         <option value="$PROJECT_DIR$/src/main/java/HWFigure/Trigon.java" />
         <option value="$PROJECT_DIR$/src/main/java/HWFigure/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HWFigure/FigureCalculation.java" />
         <option value="$PROJECT_DIR$/src/main/java/HWFigure/Figure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HWFigure/FigureCalculation.java" />
       </list>
     </option>
   </component>
@@ -488,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548264342960</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1548694264699</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1548694264699</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -536,7 +525,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22302158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22302158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -546,7 +535,7 @@
       <window_info x="1119" y="155" width="466" height="642" id="Learn" order="7" weight="0.34477034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4980631" visible="true" weight="0.2861771" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980631" visible="true" weight="0.2861771" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -906,8 +895,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HWFigure/FigureCalculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        <state relative-caret-position="435">
+          <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
         </state>
       </provider>
     </entry>
