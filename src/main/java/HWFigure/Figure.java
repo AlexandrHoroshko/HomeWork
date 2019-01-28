@@ -1,9 +1,13 @@
+package HWFigure;
+
+import java.util.Scanner;
+
+import static java.lang.Math.PI;
 import static java.lang.Math.pow;
 
 public class Figure {
 
-    private double myPi = 22.0 / 7.0;
-
+    Scanner scanner = new Scanner(System.in);
 
     int square_area(int a) {
         return a * a;
@@ -30,10 +34,10 @@ public class Figure {
     }
 
     double circle_area(double r) {
-        return myPi * pow(r, 2);
+        return PI * pow(r, 2);
     }
 
     double circle_perimeter(double r) {
-        return 2 * myPi * r;
+        return 2 * PI * r;
     }
 }

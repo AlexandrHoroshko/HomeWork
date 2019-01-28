@@ -23,8 +23,8 @@ public class AutoTestGitHub {
         WebElement Login = driver.findElement(By.id("login_field"));
 
 
-        Login.sendKeys("AlexandrHoroshkoTest3");
-        Password.sendKeys("zXc123aSd456");
+        Login.sendKeys("AlexandrHoroshko");
+        Password.sendKeys("wfsifJipGG1995");
         driver.findElement(By.cssSelector("#login > form > div.auth-form-body.mt-3 > input.btn.btn-primary.btn-block"))
                 .click();
         Thread.sleep(3000);
