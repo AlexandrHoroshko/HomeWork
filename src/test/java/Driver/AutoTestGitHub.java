@@ -39,6 +39,7 @@ public class AutoTestGitHub {
         driver.findElement(By.cssSelector("#new_repository > div.js-with-permission-fields > button"))
                 .click();
         Thread.sleep(3000);
+        // Удаление репозитория
         driver.findElement(By.cssSelector("#js-repo-pjax-container > div.pagehead.repohead.instapaper_ignore.readability-menu.experiment-repo-nav > nav > a:nth-child(6)"))
                 .click();
         Thread.sleep(3000);
