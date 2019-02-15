@@ -12,7 +12,7 @@ public class AutoTestGitHub {
     @Test
     public void testGitLogin() throws InterruptedException {
 
-        System.setProperty("webdriver.chrome.driver","src/main/resources/chromedriver");
+        System.setProperty("webdriver.chrome.driver","src/main/resources/chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
 
@@ -23,12 +23,12 @@ public class AutoTestGitHub {
         WebElement Login = driver.findElement(By.id("login_field"));
 
 
-        Login.sendKeys("AlexandrHoroshkoTest");
+        Login.sendKeys("AlexandrHoroshkoTest11");
         Password.sendKeys("zXc123aSd456");
         driver.findElement(By.cssSelector("#login > form > div.auth-form-body.mt-3 > input.btn.btn-primary.btn-block"))
                 .click();
         Thread.sleep(3000);
-        driver.findElement(By.cssSelector("body > div.application-main > div > div.col-12.col-md-8.col-lg-6.p-responsive.mt-3.border-bottom.d-flex.flex-auto > div > div.flex-auto > div.border.rounded-1.shelf.intro-shelf.js-notice > div > div > a.btn.shelf-cta.ml-3"))
+        driver.findElement(By.cssSelector("body > div.application-main > div > div.col-12.col-md-8.col-lg-6.p-responsive.mt-3.border-bottom > div > div.flex-auto > div.border.rounded-1.shelf.intro-shelf.js-notice > div > div > a.btn.shelf-cta.ml-3"))
                 .click();
         Thread.sleep(3000);
         driver.findElement(By.cssSelector("#repository_name"))
